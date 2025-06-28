@@ -1,0 +1,1 @@
+import{_ as t,x as s,z as n,y as o}from"./ecLbnEJa.js";const r={},c={class:"flex items-center justify-center min-h-screen bg-gray-100"};function a(l,e){return o(),s("div",c,e[0]||(e[0]=[n("h1",{class:"text-4xl font-bold text-blue-600"},"Hello Nuxt + Tailwind!",-1)]))}const x=t(r,[["render",a]]);export{x as default};
